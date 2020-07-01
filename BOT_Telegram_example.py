@@ -51,7 +51,7 @@ def on_callback_query(msg): #query management
         query_reminder = 1
         
 
-bot=telepot.Bot('123456xxxxxxx') #BOT token from Both Father
+bot=telepot.Bot('123456xxxxxxx') #BOT token from BOT Father
 print('bot collegato')
 bot.message_loop({'chat': on_chat_message,
                   'callback_query': on_callback_query})
