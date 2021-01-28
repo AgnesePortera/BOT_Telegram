@@ -1,5 +1,6 @@
 [![Python: 3.4](https://img.shields.io/badge/Python-3.4-blue)](https://www.python.org/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AgnesePortera/BOT_Telegram)
+![Telegram](https://img.shields.io/badge/Telegram-app-blue)
 ![GitHub](https://img.shields.io/github/license/AgnesePortera/Covid19-Maps?style=plastic)
 
 
